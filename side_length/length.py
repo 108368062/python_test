@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#use cosine formula cal result
 import math
 print("Given the length of two sides and an angle,\n calculate the length of the side!")
 len1 = float(input("Given the first side length:"))
